@@ -16,7 +16,7 @@ cd docs/.vuepress/dist/
 git init
 git add -A
 git commit -m 'deploy'
-git remote add origin git@github.com:q158467234/polarj-docs.git
+git remote add origin git@github.com:q158467234/polarjdocs.git
 git checkout -b gh-pages
 
 # 如果发布到 https://<USERNAME>.github.io
